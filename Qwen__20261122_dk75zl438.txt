@@ -1,0 +1,13 @@
+aeroport/
+├── settings.gradle
+├── gradle.properties
+├── .github/workflows/build.yml
+└── app/
+    ├── build.gradle
+    └── src/main/
+        ├── AndroidManifest.xml
+        ├── java/com/aeroport/game/MainActivity.java
+        ├── res/values/themes.xml
+        ├── res/values/strings.xml
+        ├── res/drawable/ic_launcher.xml
+        └── assets/index.html
